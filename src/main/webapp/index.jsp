@@ -22,7 +22,7 @@
 
     <section id="about">
         <h2>About</h2>
-        <p>My name is Mohamed Sesay, and I am a DevOps Engineer. I have a master's degree in DevOps and possess skills in various DevOps tools.</p>
+        <p>My name is Mohamed Sesay, and I am a  big DevOps Engineer. I have a master's degree in DevOps and possess skills in various DevOps tools.</p>
     </section>
 
     <section id="portfolio">
