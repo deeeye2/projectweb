@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.deeeye</groupId>
-    <artifactId>DevOpsweb</artifactId>
-    <version>0.12</version>
+    <artifactId>projectweb</artifactId>
+    <version>0.1</version>
     <packaging>war</packaging>
 
-    <name>DevOpsweb</name>
+    <name>projectweb</name>
     <description>A web application project for deeeye</description>
 
     <properties>
@@ -53,7 +53,7 @@
     </dependencies>
 
     <build>
-        <finalName>DevOpsweb</finalName>
+        <finalName>projectweb</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -107,4 +107,3 @@
         </plugins>
     </build>
 </project>
-
