@@ -38,7 +38,7 @@
                     <strong>Contact Information:</strong><br>
                     Email: <a href="mailto:mohamed.sesay@outlook.com.au">mohamed.sesay@outlook.com.au</a><br>
                     Phone: +4915901773752<br>
-                    Location: Forststrasse 6, 96264, Altenkunstadt, Germany
+                    Location: Forststraße 6, 96264, Altenkunstadt, Germany
                 </p>
                 <div class="social-media">
                     <a href="https://linkedin.com/in/mohamedsesay" target="_blank">LinkedIn</a> |
