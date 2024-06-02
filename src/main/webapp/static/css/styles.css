@@ -9,8 +9,9 @@ header nav ul {
     padding: 0;
     display: flex;
     justify-content: space-around;
-    background-color: lightblue;
+    background-color: red;
     padding: 1em 0;
+    margin: 0;
 }
 
 header nav ul li {
@@ -21,6 +22,13 @@ header nav ul li a {
     text-decoration: none;
     color: black;
     font-weight: bold;
+    padding: 0.5em;
+}
+
+header nav ul li a:hover {
+    color: white;
+    background-color: black;
+    border-radius: 4px;
 }
 
 section {
@@ -48,10 +56,21 @@ section {
     margin-left: 20px;
 }
 
+.social-media a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+.social-media a:hover {
+    color: lightblue;
+}
+
 footer {
     text-align: center;
     padding: 1em;
-    background-color: lightblue;
+    background-color: red;
+    color: black;
     position: fixed;
     width: 100%;
     bottom: 0;
@@ -68,5 +87,16 @@ form input, form textarea, form button {
     margin-bottom: 1em;
     border: 1px solid #ccc;
     border-radius: 4px;
+}
+
+form button {
+    background-color: red;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: lightblue;
 }
 
