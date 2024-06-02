@@ -40,6 +40,11 @@
                     Phone: +4915901773752<br>
                     Location: Forststrasse 6, 96264, Altenkunstadt, Germany
                 </p>
+                <div class="social-media">
+                    <a href="https://linkedin.com/in/mohamedsesay" target="_blank">LinkedIn</a> |
+                    <a href="https://github.com/mohamedsesay" target="_blank">GitHub</a> |
+                    <a href="https://twitter.com/mohamedsesay" target="_blank">Twitter</a>
+                </div>
             </div>
             <img src="https://share.icloud.com/photos/0e3S3MfBCHjeQSUxK1iePTcLg" alt="Photo of Mohamed Sesay">
         </div>
