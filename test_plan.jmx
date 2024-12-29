@@ -41,7 +41,7 @@
         </HTTPSamplerProxy>
         <hashTree/>
         <ResultCollector guiclass="SimpleDataWriter" testclass="ResultCollector" testname="Save Results to File" enabled="true">
-          <stringProp name="filename">/tmp/jmeter_results.jtl</stringProp> </root/junit_results>
+          <stringProp name="filename">/tmp/jmeter_results.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
