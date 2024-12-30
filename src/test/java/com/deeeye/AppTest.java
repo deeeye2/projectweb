@@ -18,3 +18,4 @@ public class AppTest {
         assertEquals(expected, actual, "App should return the correct message");
     }
 }
+
